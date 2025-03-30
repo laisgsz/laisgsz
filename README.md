@@ -1,4 +1,4 @@
-## Olá pessoal! Eu sou a Lais, estudante de ADS no IFSP 👋
+## Olá! Eu sou a Lais, estudante de ADS no IFSP 👋
 
 - 🔭 Estou atuando como estágiaria na área de Ciencia de Dados no Itaú Unibanco
 - 🌱 Stacks: SQL, C, Python, Advanced Excel.
