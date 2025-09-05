@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lais, analista e desenvolvedora de sistemas em processo 👋
+## Olá! Eu sou a Lais, analista e desenvolvedora de sistemas em construção👋
 
 - 💬 Contate-me no email: laisgabriele2023@gmail.com
 - ⚡Compartilhando meus códigos desenvolvidos em sala de aula no curso de ADS.
